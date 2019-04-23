@@ -1,0 +1,8 @@
+.box {
+    border: 2px dashed rgb(161, 137, 0);
+    height: 75px;
+    background: #eee;
+}
+.box-new {
+    border: 1px solid green;
+}
